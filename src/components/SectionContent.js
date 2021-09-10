@@ -16,7 +16,6 @@ export default class SectionContent extends React.Component {
                 {image && (
                     <div className="inline-image">
                         <img src={withPrefix(image)} alt={imageAlt} />
-                        <img src={withPrefix(image)} alt={imageAlt} />
                     </div>
                 )}
                 {content && <div className="copy">{markdownify(content)}</div>}
