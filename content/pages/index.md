@@ -3,26 +3,33 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Pro English Editing
+    title: Rock Hydraulics
     subtitle: |
-      ### Innovative Scientific Solutions&#xA;&#xA;&#xA;
-    image: images/avatar.png
+      ### Hohai University&#xA;&#xA;&#xA;
+    image: images/logo.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
     type: section_content
-    content: "### PEE helps you share your research with the world\n\n
-Pro articles need pro language. You do the research, we do the editing and translating.\n\nOur team specializes in research papers and reviews in engineering, mechanics, and earth sciences.\n\nAt PEE, we strive to consistently deliver exceptional and high-quality services to our customers.\n\nWe are not the largest, but we are trying to be the best.\n\n### Language Editing\_\n\nHighest standard English editing from an experienced editor in your field to ensure that your article is ready for journal submission\_\n\n### Translation\n\nTranslation of your article from Chinese into high quality submission ready English\n\n### Formatting\n\nManuscript and reference (within and at the end of the paper) formatting according to your selected journal’s requirements\n\n### Journal Recommendation\n\nCarefully selecting 3 journals to match your research topics while considering chance of acceptance and impact factor\n\n
-#### 35% Discount Now!\n\n
-### Feel free to contact us\n\nEmail:pee.editor@outlook.com\n\n"
+    content: "### Instructor(s)\n\n
+		Huanling Wang Ph.D\n\n
+		Rubin Wang Ph.D\n\n
+		Qingxiang Meng Ph.D\n\n
+		The course provides the students with basic theories and methods of rock and soil mechanics including laboratory testing, mechanical models, numerical methods and their applications to the practial rock engineering such as tunnels, foundations and slopes in rock mass. Recent developments related to rock and soil mechanics and engineering are also introduced in this course.\n\n
+		### Books:\n\n
+		There are many books on finite element methods. This class does not have a required
+		textbook. However, we do recommend the following books for more detailed and broader
+		treatments than can be provided in any form of class:\n\n
+		1.	John Conrad Jaeger, Neville G. W. Cook, Robert Zimmerman (2007), Fundamentals of Rock Mechanics\n\n
+		2. Robert Zimmerman (2018) Fluid Flow in Porous Media\n\n"
     image_alt: test
   - title: A Cat
     section_id: cat
     type: section_content
     image_alt: Geometric pattern
 seo:
-  title: Pro English Editing
-  description: Pro English Editing
+  title: Rock Hydraulics
+  description: Rock Hydraulics
   extra:
     - name: 'og:type'
       value: website
