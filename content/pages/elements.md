@@ -1,6 +1,6 @@
 ---
 seo:
-  title: Details
+  title: About US
   description: This is the About US page
   extra:
     - name: 'og:type'
@@ -21,4 +21,158 @@ seo:
 layout: page
 title: About US
 ---
-Hohai University, established in 1915, is a state key university under the direct administration of Ministry of Education of China. It is a comprehensive university with research and study of water conservancy as its main focus, education of engineering subjects as its first priority, and coordinated development of many disciplines covering engineering, science, economics, management, liberal arts, and law. It is also among the group of universities to benefit from Project 211. Located in Nanjing, the capital city of ancient China, Hohai University includes other two beautiful campuses, Changzhou and Jiangning. Hohai University is an ideal place to study with its beautiful scenery and tree-lined campus. Hohai University is one of the first universities in China qualified to award bachelor, master and doctor degrees to international students. Thousands of international students from over 90 countries in Africa, Asia, America, Europe, and Oceania have completed their studies at Hohai University. To encourage high-caliber international students to study at Hohai, the University established Hohai Scholarship for International Students in 2005.
+We are a committed team of experienced editors who are passionate about scientific writing in engineering, mechanics, and earth sciences. Our mission is to help researchers publish their exciting new ideas, techniques, observations, and novel results in the best journals by improving the quality of scientific writing.
+
+Papers translated or edited by our team have been published in more than 50 journals listed below.
+
+*   AAPG Bulletin
+
+
+*   Advances in Materials Science and Engineering
+
+
+*   Applied Sciences
+
+
+*   Arabian Journal of Geosciences
+
+
+*   Energy
+
+
+*   Energy Conversion and Management
+
+
+*   Energy Science and Engineering
+
+
+*   Energies
+
+
+*   Engineering Failure Analysis
+
+
+*   Engineering Geology
+
+
+*   Environmental Earth Sciences
+
+
+*   Environmental Geosciences journal
+
+
+*   Fuel
+
+
+*   Geofluids
+
+
+*   Geomechanics and Engineering
+
+
+*   Geoscience Journal
+
+
+*   Geotechnical and Geological Engineering
+
+
+*   Géotechnique Letters
+
+
+*   Geothermics
+
+
+*   Greenhouse Gases: Science and Technology
+
+
+*   Hydrogeology Journal
+
+
+*   International Journal of Coal Geology
+
+
+*   International Journal of Geomechanics
+
+
+*   International Journal of Heat and Mass Transfer
+
+
+*   International Journal of Oil, Gas and Coal Technology
+
+
+*   International Journal of Rock Mechanics and Mining Sciences
+
+
+*   Journal of Canadian Petroleum Technology
+
+
+*   Journal of Cleaner Production
+
+
+*   Journal of Geophysical Research – Solid Earth
+
+
+*   Journal of Geotechnical and Geoenvironmental Engineering
+
+
+*   Journal of Natural Gas Science and Engineering
+
+
+*   Journal of Petroleum Science and Engineering
+
+
+*   Journal of Porous Media
+
+
+*   Journal of Rock Mechanics and Geotechnical Engineering
+
+
+*   Journal of Unconventional Oil and Gas Resources
+
+
+*   Natural Resources Research
+
+
+*   Oil and Gas Facilities
+
+
+*   Proceedings of ICE – Energy
+
+
+*   Rock Mechanics and Rock Engineering
+
+
+*   Scientific Reports
+
+
+*   Shock and Vibration
+
+
+*   Society of Petroleum Engineers Journal
+
+
+*   SPE Drilling & Completions
+
+
+*   SPE Production & Operations
+
+
+*   SPE Reservoir Evaluation & Engineering
+
+
+*   Special Topics & Reviews in Porous Media – An International Journal
+
+
+*   Tectonophysics
+
+
+*   The Energy Journal
+
+
+*   Transport in Porous Media
+
+
+*   Tunneling and Underground Space Technology
+
+
+*   Water

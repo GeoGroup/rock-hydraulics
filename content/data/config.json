@@ -1,9 +1,9 @@
 {
-    "title": "Rock Hydraulics",
+    "title": "Pro English Editing",
     "path_prefix": "/",
-    "favicon": "images/logo.png",
+    "favicon": "images/avatar.png",
     "header": {
-        "title": "Rock Hydraulics",
+        "title": "Pro English Editing",
         "has_nav": true,
         "nav_links": [
             {
@@ -11,15 +11,15 @@
                 "url": "/"
             },
             {
-                "label": "Syllabus",
+                "label": "Pricing",
                 "url": "/generic/"
             },
             {
-                "label": "Details",
+                "label": "About",
                 "url": "/elements/"
             },
             {
-                "label": "Contact",
+                "label": "中文",
                 "url": "/ipsum/"
             }
         ]
